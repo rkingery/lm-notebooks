@@ -18,7 +18,7 @@ Finally, the original assignment repositories contained a bunch of course-specif
 
 Currently, the relationship between the original assignments and the notebooks in this repository are:
 - [Assignment 1](https://github.com/stanford-cs336/assignment1-basics/tree/main): Building a Transformer LM
-    - `1a-tokenization.ipynb`: The tokenizater implementation part of this assignment.
+    - `1a-tokenization.ipynb`: The tokenizer implementation part of this assignment.
     - `1b-transformer.ipynb`: The transformer architecture implementation part of this assignment.
     - `1c-training.ipynb`: The optimizer and training loop implementation part of this assignment.
     - `1d-experiments.ipynb`: The training experiments part of this assignment.
